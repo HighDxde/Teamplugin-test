@@ -1,0 +1,25 @@
+name: Teamsystem
+version: '${project.version}'
+main: highdxde.de.de.team.De.Team
+commands:
+  ghost:
+  sex:
+    aliases: [ficken]
+  clearchat:
+    aliases: [cc,chatclear]
+  tp:
+    description: ""
+  fly:
+    description: ""
+  gm:
+    description: ""
+  Broadcast:
+    aliases: [bc]
+  tphere:
+    aliases: [tph, teleporthere, tpo]
+  teamsystem:
+    aliases: [teamplugin]
+  flyspeed:
+    aliases: [fsp, fspeed]
+
+
